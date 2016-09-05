@@ -1,0 +1,5 @@
+background: #fff
+h1 - #fff
+h2 - #fff
+
+scoreboard: #4f7671

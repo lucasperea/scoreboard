@@ -1,2 +1,7 @@
-body
-{background-color: #000; color: #fff; margin: 0; font-family: arial;}
+body {
+    background: url('https://mlblogscookandsonbats.files.wordpress.com/2011/01/2220-20miller20home20upper20panaramic.jpg') top center fixed;
+    background-size: cover;
+    color: #fff;
+    margin: 0;
+    font-family: arial;
+}
